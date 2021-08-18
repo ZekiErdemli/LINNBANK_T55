@@ -130,6 +130,14 @@
             <version>1.9.13</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-core</artifactId>
+            <version>4.2.2</version>
+        </dependency>
+
+
 
 
     </dependencies>
